@@ -4,4 +4,4 @@
 ## Vital sign and threatment worksheet for pediatric and neonatal intensive care unit.
 ### Include parenteral nutrition calculator
 
-![logo](https://www.canva.com/design/DAEa56j1rMk/qve11_uV-7yaABIhPH3Z2Q/view?utm_content=DAEa56j1rMk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![logo](blob:https://www.canva.com/1d82f882-6516-43be-ac20-49417c3ffb6a)
