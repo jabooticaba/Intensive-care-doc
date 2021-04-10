@@ -6,5 +6,5 @@
 
 ### [Changelog](https://github.com/jabooticaba/Intensive-care-doc/blob/5847dcc5f29204708d450e9c7ad64dc69ecf57cf/CHANGELOG.md)
 
-## License
+### License
 ISC
