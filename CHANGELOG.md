@@ -1,8 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## 2.21 (2021-04-25)
+Parenteral calculator changed
+
 ## 2.2 (2021-04-17)
-Protection remove
+Protection removed
 Minor design change
 
 ## 2.1 (2021-04-10)
