@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## 2.3
+Body surface area calculator (DuBois),
+Creatinine clearance calculator added
+
 ## 2.21 (2021-04-25)
 Parenteral calculator changed
 
