@@ -1,10 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## 2.51
+## 2.51 (2021-05-03)
 Transfusion form added
 
-## 2.3
+## 2.3 (2021-04-27)
 Body surface area calculator (DuBois),
 Creatinine clearance calculator added
 
