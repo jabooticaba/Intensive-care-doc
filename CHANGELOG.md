@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## 2.52 (2021-05-15)
+List of midical procedures in "Prescribings" column added
+
 ## 2.51 (2021-05-03)
 Transfusion form added
 
