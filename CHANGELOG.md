@@ -1,6 +1,8 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+##
+
 ## 2.7 (2021-08-10)
 New transfusion list added
 
